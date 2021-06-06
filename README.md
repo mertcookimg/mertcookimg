@@ -10,9 +10,9 @@
   <a href="https://github.com/mertcookimg">
     <img height="20" src="https://img.shields.io/github/followers/mertcookimg?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/MeRT">
+<!--   <a href="http://qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/posts.svg" />
-  </a>  
+  </a>   -->
   <a href="http://qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
   </a>
