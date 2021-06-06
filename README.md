@@ -19,4 +19,7 @@
   <a href="https://youtube.com/channel/UCLGjR0yRSIxDb_l135V4mnQ">
     <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCLGjR0yRSIxDb_l135V4mnQ?style=social" />
   </a>
+  <a href="https://youtube.com/channel/UCLGjR0yRSIxDb_l135V4mnQ">
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCLGjR0yRSIxDb_l135V4mnQ?style=social" />
+  </a>
 </p>
