@@ -16,4 +16,7 @@
   <//qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
   </a>
+  <a href="https://youtube.com/channel/UCLGjR0yRSIxDb_l135V4mnQ">
+    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCLGjR0yRSIxDb_l135V4mnQ?style=social" />
+  </a>
 </p>
