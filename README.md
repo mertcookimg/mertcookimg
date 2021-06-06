@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**mertcookimg/mertcookimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/mertcookimg/mertcookimg/">
+    <img src="https://komarev.com/ghpvc/?username=mertcookimg" alt="mertcookimg" />
+  </a>
+  <a href="http://twitter.com/MeRTcooking">
+    <img height="20" src="https://img.shields.io/twitter/follow/MeRTcooking?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/mertcookimg">
+    <img height="20" src="https://img.shields.io/github/followers/mertcookimg?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/MeRT">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/posts.svg" />
+  </a>
+  <//qiita.com/MeRT">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
+  </a>
+</p>
