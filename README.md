@@ -12,7 +12,7 @@
   </a>
   <a href="http://qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/posts.svg" />
-  </a>
+  </a>  
   <//qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
   </a>
