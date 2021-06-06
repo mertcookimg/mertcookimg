@@ -13,7 +13,7 @@
   <a href="http://qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/posts.svg" />
   </a>  
-  <//qiita.com/MeRT">
+  <a href="http://qiita.com/MeRT">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
   </a>
   <a href="https://youtube.com/channel/UCLGjR0yRSIxDb_l135V4mnQ">
