@@ -1,4 +1,5 @@
 ### Hi there 👋
+Ph.D. Student : Autonomous Mobile Robot, Robot Manipulation, etc.
 
 <p align="left"> 
   <a href="https://github.com/mertcookimg/mertcookimg/">
