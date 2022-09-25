@@ -1,5 +1,7 @@
 ### Hi there 👋
-Ph.D. Student : Autonomous Mobile Robot, Robot Manipulation, etc.
+Ph.D : Doctor of Philosophy in Engineering
+
+Autonomous and Remote Robot, Robot Manipulation, ML, etc.
 
 <p align="left"> 
   <a href="https://github.com/mertcookimg/mertcookimg/">
