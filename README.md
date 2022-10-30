@@ -1,6 +1,7 @@
-### Hi👋
-Ph.D. : Doctor of Philosophy in Engineering.
 
+
+# About me👋
+Ph.D. : Doctor of Philosophy in Engineering.
 Autonomous and Remote Robot, Robot Manipulation, AI, ML, etc.
 
 <p align="left"> 
@@ -15,6 +16,12 @@ Autonomous and Remote Robot, Robot Manipulation, AI, ML, etc.
   </a>
 </p>
 
-<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mertcookimg&count_private=true&theme=merko)
- -->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcookimg&count_private=true&theme=merko)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcookimg&layout=compact&show_icons=true&theme=merko" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mertcookimg&theme=merko&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertcookimg&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+![ruto_v1](https://user-images.githubusercontent.com/58113372/198889688-d73a0a7a-624c-4790-92e8-33f0a23174e4.jpeg)
