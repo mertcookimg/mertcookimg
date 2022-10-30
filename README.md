@@ -14,3 +14,7 @@ Autonomous and Remote Robot, Robot Manipulation, AI, ML, etc.
     <img height="20" src="https://qiita-badge.apiapi.app/s/MeRT/contributions.svg" />
   </a>
 </p>
+
+https://github-readme-stats.vercel.app/api?username=mertcookimg
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=mertcookimg
