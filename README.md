@@ -1,7 +1,8 @@
 # About me👋
 Ph.D. : Doctor of Philosophy in Engineering.
 Autonomous and Remote Robot, Robot×AI, ML, etc.
-OUXT Polaris! TRAIL!!!!!
+OUXT Polaris! TRAIL!!!!!!!!!
+
 
 <p align="left"> 
   <a href="https://github.com/mertcookimg/mertcookimg/">
