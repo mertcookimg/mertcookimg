@@ -33,10 +33,6 @@ OUXT Polaris! TRAIL!!!
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcookimg&layout=compact&show_icons=true&theme=merko" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mertcookimg&theme=merko&show_icons=ture" />
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertcookimg&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
