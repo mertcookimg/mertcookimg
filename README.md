@@ -1,8 +1,7 @@
 # About me👋
 Ph.D. : Doctor of Philosophy in Engineering.
 
-Autonomous and Remote Robot, Robot×AI, ML, etc.
-OUXT Polaris! TRAIL!!!
+Assistant Professor: Robotics, AI, Motion Control, Mechatronics, XR, HCI, etc.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
@@ -37,4 +36,6 @@ OUXT Polaris! TRAIL!!!
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertcookimg&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-![ruto_v1](https://user-images.githubusercontent.com/58113372/198889688-d73a0a7a-624c-4790-92e8-33f0a23174e4.jpeg)
+<img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/bcf908d7-bc9e-4de1-afbf-6d52c5cbc1a7" />
+
+Web: https://mertcookimg.github.io/en/
